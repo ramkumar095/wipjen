@@ -3,7 +3,7 @@ package com.wip;
 public class MainClass {
 
 	public static void main(String[] args) {
-		System.out.println("Java within Docker");
+		System.out.println("Java within Jenkins");
 
 	}
 
